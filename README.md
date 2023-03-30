@@ -1,0 +1,2 @@
+# vegyes
+GYakorlás
